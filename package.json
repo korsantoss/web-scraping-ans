@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodejs-file-downloader": "^4.7.1",
+    "puppeteer": "^10.0.0"
+  }
+}
