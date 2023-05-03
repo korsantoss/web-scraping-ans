@@ -1,6 +1,6 @@
 # Web Scraping - ANS
 
-Projeto realizado para um desafio de estágio: download do arquivo .pdf "Componente Organizacional" no site da Agência Nacional de Saúde Suplementar (ANS).
+Download do arquivo .pdf "Componente Organizacional" no site da Agência Nacional de Saúde Suplementar (ANS).
 
 ### :gear: Configuração Inicial
 
